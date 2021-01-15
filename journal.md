@@ -1,4 +1,6 @@
-# Day 1: 15, January 2021 (HTML, CSS, Git and Github)
+# Journal
+
+## Day 1: 15, January 2021 (HTML, CSS, Git and Github)
 
 **Today's progress:** Finished HTML and CSS on Freecodecamp. Relearning Git and Github.
 
@@ -7,7 +9,9 @@
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/), [Brittany Walker](https://code.likeagirl.io/100-days-of-code-challenge-completed-bbce87f04c00)
 
 ---
-# Day 2: 16, January 2021 ()
+
+## Day 2: 16, January 2021 (#)
+
 **Today's progress:**
 
 **Thoughts:**
