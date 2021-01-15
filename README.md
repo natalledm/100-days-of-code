@@ -1,2 +1,2 @@
 # 100-days-of-code
-My take on a fresh start into coding and 100 days of code challenge!
+My take on 100 days of code challenge and a new start into coding!
