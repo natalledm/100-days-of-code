@@ -20,7 +20,15 @@
 
 **Link for today's practice:** [CSS animation page](https://github.com/natalledm/100-days-of-code/blob/main/css-practice/picture-animation.css)
 
-## Day 3: 17, January 2021 (#)
+## Day 3: 17, January 2021 (HTML and CSS)
+
+**Today's progress:**Polished the little animation I did yesterday and studied accessibility and responsiveness.
+
+**Thoughts:**Slower than yesterday, I took a longer time to understand basic things.
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 4: 18, January 2021 (#)
 
 **Today's progress:**
 
@@ -29,5 +37,4 @@
 **Resources and Inspirations:**
 
 **Link for today's practice:**
-
 
