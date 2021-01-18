@@ -30,6 +30,14 @@
 
 ## Day 4: 18, January 2021 (#)
 
+**Today's progress:**Just reading about responsiveness. Changed only 2 things in my previous project.
+
+**Thoughts:**Slow day.
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [w3schools](https://www.w3schools.com/css/css_rwd_intro.asp)
+
+## Day 5: 19, January 2021 (#)
+
 **Today's progress:**
 
 **Thoughts:**
@@ -37,4 +45,3 @@
 **Resources and Inspirations:**
 
 **Link for today's practice:**
-
