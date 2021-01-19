@@ -28,7 +28,7 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 4: 18, January 2021 (#)
+## Day 4: 18, January 2021 (HTML and CSS)
 
 **Today's progress:**Just reading about responsiveness. Changed only 2 things in my previous project.
 
@@ -36,7 +36,15 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [w3schools](https://www.w3schools.com/css/css_rwd_intro.asp)
 
-## Day 5: 19, January 2021 (#)
+## Day 5: 19, January 2021 (CSS)
+
+**Today's progress:**Practicing flexbox.
+
+**Thoughts:**The explanation on Freecodecamp saying that it is a cross (and a linked image to help see it) was wonderful for understanding it!
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+## Day 6: 20, January 2021 (#)
 
 **Today's progress:**
 
