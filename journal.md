@@ -46,6 +46,14 @@
 
 ## Day 6: 20, January 2021 (#)
 
+**Today's progress:**Practicing Grid. Create a simple Tribute Page for Freecodecamp challenge.
+
+**Thoughts:**It was easier than expected!
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 7: 21, January 2021 (#)
+
 **Today's progress:**
 
 **Thoughts:**
