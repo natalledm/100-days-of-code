@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+    <body>
+        <div class="container">
+            <header>
+                <h1 id="title">Book Survey Form</h1>
+                <p id="description">This is a Book Survey Form!</p>
+            </header>
+            <form id="survey-form">
+
+            <div>
+                <label for="name" id="name-label">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your Name" required>
+            </div>
+            <div>
+                <label for="email" id="email-label">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your Email" required>
+            </div>
+            <div>
+                <label for="books-read" id="number-label">Books read this year:</label>
+                <input type="number" id="number" name="books-read" min="0" max="200" placeholder="How many books you read this year?">
+            </div>
+            <div>
+                <label for="dropdown">Select a favorite genre:</label>
+                <select id="dropdown" name="genre" required>
+                <option disabled selected value>Select a genre:</option>
+                <option value="romance">Romance</option>
+                <option value="poetry">Poetry</option>
+                <option value="fiction">Fiction</option>
+                <option value="fantasy">Fantasy</option>
+                <option value="non-fiction">Non-Fiction</option>
+                </select>
+            </div>
+            <div>
+                <p>Do you plan to read more than one book per month?</p>
+
+                <label for="radio-yes">
+                <input id="radio-yes" name="radio" value="yes" type="radio" class="input-radio">Yes
+                </label>
+                <label for="radio-no">
+                <input id="radio-no" name="radio" value="no" type="radio" class="input-radio">No
+                </label>
+
+            </div>
+            <div>
+                <p>Which color your favorite book of 2020 has?</p>
+                <label for="favorite-red">Red
+                <input id="favorite-red" type="checkbox" name="favorite-color" value="red" checked="checked">
+                <span class="checkmark"></span>
+                </label>
+
+                <label for="favorite-blue">Blue
+                <input id="favorite-blue" type="checkbox" value="blue" name="favorite-color">
+                <span class="checkmark"></span>
+                </label>
+
+                <label for="favorite-yellow">Yellow
+                <input id="favorite-yellow" type="checkbox" value="yellow" name="favorite-color">
+                <span class="checkmark"></span>
+                </label>
+
+                <label for="favorite-green">Green
+                <input id="favorite-green" type="checkbox" value="green" name="favorite-color">
+                <span class="checkmark"></span>
+                </label>
+            </div>
+            <div>
+                <label for="comments">Send us any comments!</label>
+                <textarea id="comments" placeholder="Write your comment here"></textarea>
+            </div>
+            <div>
+                <button id="submit">Submit</button>
+            </div>
+            </form>
+        </div>
+    </body>
+</html>

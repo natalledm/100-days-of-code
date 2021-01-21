@@ -44,13 +44,21 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
-## Day 6: 20, January 2021 (#)
+## Day 6: 20, January 2021 (CSS)
 
 **Today's progress:**Practicing Grid. Create a simple Tribute Page for Freecodecamp challenge.
 
 **Thoughts:**It was easier than expected!
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 7: 21, January 2021 (HTML, CSS)
+
+**Today's progress:**Simple Form Page for Freecodecamp challenge.
+
+**Thoughts:**I already forgot everything! /panic
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 
 ## Day 7: 21, January 2021 (#)
 
