@@ -3,29 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="survey-form.css">
     <title>Survey Form</title>
 </head>
     <body>
         <div class="container">
-            <header>
+            <header class="header">
                 <h1 id="title">Book Survey Form</h1>
                 <p id="description">This is a Book Survey Form!</p>
+                <span class="line-divider"></span>
             </header>
             <form id="survey-form">
-
-            <div>
+            <div class="input-type-container">
                 <label for="name" id="name-label">Name:</label>
                 <input type="text" id="name" name="name" placeholder="Enter your Name" required>
             </div>
-            <div>
+            <div class="input-type-container">
                 <label for="email" id="email-label">Email:</label>
                 <input type="email" id="email" name="email" placeholder="Enter your Email" required>
             </div>
-            <div>
+            <div class="input-type-container">
                 <label for="books-read" id="number-label">Books read this year:</label>
-                <input type="number" id="number" name="books-read" min="0" max="200" placeholder="How many books you read this year?">
+                <input type="number" id="number" name="books-read" min="0" max="200" placeholder="0">
             </div>
-            <div>
+            <div class="sub-container">
                 <label for="dropdown">Select a favorite genre:</label>
                 <select id="dropdown" name="genre" required>
                 <option disabled selected value>Select a genre:</option>
@@ -36,7 +37,7 @@
                 <option value="non-fiction">Non-Fiction</option>
                 </select>
             </div>
-            <div>
+            <div class="sub-container">
                 <p>Do you plan to read more than one book per month?</p>
 
                 <label for="radio-yes">
@@ -47,8 +48,8 @@
                 </label>
 
             </div>
-            <div>
-                <p>Which color your favorite book of 2020 has?</p>
+            <div class="sub-container">
+                <p>Which color your favorite book of 2020 has in its cover?</p>
                 <label for="favorite-red">Red
                 <input id="favorite-red" type="checkbox" name="favorite-color" value="red" checked="checked">
                 <span class="checkmark"></span>
@@ -69,7 +70,7 @@
                 <span class="checkmark"></span>
                 </label>
             </div>
-            <div>
+            <div class="sub-container">
                 <label for="comments">Send us any comments!</label>
                 <textarea id="comments" placeholder="Write your comment here"></textarea>
             </div>
