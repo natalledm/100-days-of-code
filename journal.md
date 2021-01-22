@@ -60,12 +60,19 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 
-## Day 7: 21, January 2021 (#)
+## Day 8: 22, January 2021 (CSS, HTML)
 
-**Today's progress:**
+**Today's progress:**Did a better css for yesterday's form (simple, but not as ugly XD). Started a Product landing page.
 
-**Thoughts:**
+**Thoughts:**-
 
-**Resources and Inspirations:**
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
 
-**Link for today's practice:**
+## Day 9: 23, January 2021 (#)
+
+**Today's progress:**-
+
+**Thoughts:**-
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+
