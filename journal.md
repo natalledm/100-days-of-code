@@ -76,7 +76,15 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 10: 24, January 2021 (#)
+## Day 10: 24, January 2021 (HTML, CSS)
+
+**Today's progress:**Progress on the Product landing page for the Freecodecamp assignment.
+
+**Thoughts:**-
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 11: 25, January 2021 (#)
 
 **Today's progress:**-
 
