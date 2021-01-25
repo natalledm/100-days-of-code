@@ -88,6 +88,13 @@
 
 **Today's progress:**Started the 4th assignment for the Freecodecamp Responsive Web Design Projects.
 
+**Thoughts:**Nothing like inspecting other pages to help!
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+## Day 11: 27, January 2021 (#)
+
+**Today's progress:**-
+
 **Thoughts:**-
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
