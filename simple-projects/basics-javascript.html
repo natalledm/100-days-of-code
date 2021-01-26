@@ -11,16 +11,16 @@
     <nav id="navbar">
       <header class="title">Basics of Javascript</header>
       <ul>
-        <li><a href="#What_is_javascript">What is javascript?</a></li>
-        <li><a href="#Hello_World">Hello World!</a></li>
-        <li><a href="#Variables">Variables</a></li>
-        <li><a href="#Other_Items">Other Items</a></li>
-        <li><a href="#Conditionals">Conditionals</a></li>
-        <li><a href="#Functions">Functions</a></li>
+        <li><a class="nav-link" href="#What_is_javascript?">What is javascript?</a></li>
+        <li><a class="nav-link" href="#Hello_World!">Hello World!</a></li>
+        <li><a class="nav-link" href="#Variables">Variables</a></li>
+        <li><a class="nav-link" href="#Other_Items">Other Items</a></li>
+        <li><a class="nav-link" href="#Conditionals">Conditionals</a></li>
+        <li><a class="nav-link" href="#Functions">Functions</a></li>
       </ul>
     </nav>
     <main id="main-doc">
-      <section class="main-section" id="What_is_javascript">
+      <section class="main-section" id="What_is_javascript?">
         <header>What is javascript?</header>
         <article>
           <p>JavaScript, commonly called js, is a programming language that can add interactivity to a website. 
@@ -34,22 +34,53 @@
             <li>Forms</li>
           </ul>
           <p>So Javascript is what make pages interactive!</p>
+          <p>This is just an experimental page. For detailed Javascript lessons, go to 
+            <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN</a>.</p>
         </article>
       </section>
-      <section class="main-section" id="Hello_World">
+      <section class="main-section" id="Hello_World!">
         <header>Hello World!</header>
+        <p>One  of the most common exercises to practice any computer language is to print the phrase "Hello world". So let's try it!</p>
+        <p>You will need a code editor that reads Javascript.</p>
+        <ol>
+          <li>Create one file called <code>index.html</code> and another called <code>main.js</code>. Save it.</li>
+          <li>In the <code>index.html</code> add the following line right before the closing tag of the <code>body</code>: </li>
+            <code>
+              <script src="scripts/main.js"></script>
+            </code>
+          <li>Add this code in the <code>main.js</code> file and save it:</li>
+            <code>
+              const myHeading = document.querySelector('h1');
+              myHeading.textContent = 'Hello world!';
+            </code>
+          <li>Now load the <code>index.html</code> in your browser. Voilà! ;) </li>
+        </ol>
       </section>
       <section class="main-section" id="Variables">
         <header>Variables</header>
+        <p>Variables are containers that store values that can have different data types. 
+          You can declare a variable by calling <code>var</code> (not as common anymore) or <code>let</code> 
+          followed by the name you would give to the variable:
+          <code>let doAwesomeThing;</code>  
+        </p>
       </section>
       <section class="main-section" id="Other_Items">
         <header>Other Items</header>
+        <p>We have other items as code:</p>
+        <ul>
+          <li>Comments</li>
+          <li>Operators</li>
+          <li>Events</li>
+        </ul>
+        <p>They are as important as Variables!</p>
       </section>
       <section class="main-section" id="Conditionals">
         <header>Conditionals</header>
+        <p>Conditionals are used to test if an expression returns true or not. A very common conditional is the <code>if...else</code>.</p>
       </section>
       <section class="main-section" id="Functions">
         <header>Functions</header>
+        <p>Functions are a way to save functionalities you want to repeat. This is a good alternative to repetition of the same code over and over.</p>
       </section>
     </main>
   </div>

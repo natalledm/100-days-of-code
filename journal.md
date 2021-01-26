@@ -91,7 +91,16 @@
 **Thoughts:**Nothing like inspecting other pages to help!
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/)
-## Day 11: 27, January 2021 (#)
+
+## Day 12: 26, January 2021 (HTML, CSS)
+
+**Today's progress:**Finished the technical page for the responsive web design projects of freecodecamp.
+
+**Thoughts:**It's ugly but it's responsive!
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+
+## Day 13: 26, January 2021 (#)
 
 **Today's progress:**-
 
