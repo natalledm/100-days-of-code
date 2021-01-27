@@ -100,10 +100,17 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
-## Day 13: 26, January 2021 (#)
+## Day 13: 27, January 2021 (CSS)
 
-**Today's progress:**-
+**Today's progress:**Reading and learning the existence of BEM and SMACSS. Still a little overwhelmed, but interested.
 
-**Thoughts:**-
+**Thoughts:**Things can always go deeper, don't doubt it.
+
+**Resources and Inspirations:**[SMACSS](http://smacss.com/book/), [BEM](http://getbem.com/introduction/)
+## Day 14: 28, January 2021 (#)
+
+**Today's progress:** -
+
+**Thoughts:** -
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
