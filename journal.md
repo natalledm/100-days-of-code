@@ -107,7 +107,16 @@
 **Thoughts:**Things can always go deeper, don't doubt it.
 
 **Resources and Inspirations:**[SMACSS](http://smacss.com/book/), [BEM](http://getbem.com/introduction/)
+
 ## Day 14: 28, January 2021 (#)
+
+**Today's progress:** Writing a bit of cheatsheet of BEM and SMACSS for later use.
+
+**Thoughts:** A bit every day, Nat. A bit every day.
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [SMACSS](http://smacss.com/book/), [BEM](http://getbem.com/introduction/)
+
+## Day 15: 29, January 2021 (#)
 
 **Today's progress:** -
 
