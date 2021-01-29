@@ -116,7 +116,15 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [SMACSS](http://smacss.com/book/), [BEM](http://getbem.com/introduction/)
 
-## Day 15: 29, January 2021 (#)
+## Day 15: 29, January 2021 (HTML, CSS)
+
+**Today's progress:** Started a project to train css architecture.
+
+**Thoughts:** BEM naming is so organized!
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
+
+## Day 16: 30, January 2021 (#)
 
 **Today's progress:** -
 
