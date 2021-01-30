@@ -128,7 +128,7 @@
 
 **Today's progress:** Continuing the project from yesterday.
 
-**Thoughts:** -
+**Thoughts:** Illustrative image and meaningful image are different. The first can be styled on CSS and the second need the `<img>` tag.
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
 
