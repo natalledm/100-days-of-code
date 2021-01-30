@@ -124,7 +124,15 @@
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
 
-## Day 16: 30, January 2021 (#)
+## Day 16: 30, January 2021 (HTML, CSS)
+
+**Today's progress:** Continuing the project from yesterday.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
+
+## Day 17: 31, January 2021 (#)
 
 **Today's progress:** -
 

@@ -1,0 +1,16 @@
+.about {
+  text-align: center;
+  padding: 2.5rem;
+}
+
+.about__title {
+  color: #8d0606;
+  font-family: Pacifico, cursive;
+  font-size: 3.1875rem;
+}
+
+.about__description {
+  color: #595959;
+  font-size: 1.75rem;
+  font-weight: 100;
+}
