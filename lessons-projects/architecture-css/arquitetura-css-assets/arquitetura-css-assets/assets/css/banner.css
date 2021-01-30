@@ -5,6 +5,7 @@
 .banner__img {
   width: 100%;
   height: calc(100vh - 72px);
+  background: url("../img/banner.jpg") no-repeat center / cover;
 }
 
 .banner__title {
