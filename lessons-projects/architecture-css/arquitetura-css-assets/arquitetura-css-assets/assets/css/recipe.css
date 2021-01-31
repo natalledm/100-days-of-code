@@ -2,7 +2,6 @@
   background: #e5e5e5;
   display: flex;
   flex-wrap: wrap;
-  padding: 5rem 0 0 5rem;
 }
 
 .recipe {
@@ -10,8 +9,6 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 5rem;
-  margin-right: 5rem;
-  width: calc(25% - 5rem);
 }
 
 .recipe__img {
@@ -44,4 +41,37 @@
 .recipe__button:hover {
   cursor: pointer;
   background: #620404;
+}
+
+@media screen and (min-width: 0) {
+  .cards {
+    padding: 5rem 0 0 1rem;
+  }
+  
+  .recipe {
+    margin-right: 1rem;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768) {
+  .cards {
+    padding: 5rem 0 0 2.5rem;
+  }
+  
+  .recipe {
+    margin-right: 2.5rem;
+    width: calc(33.33% - 2.5rem);
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .cards {
+    padding: 5rem 0 0 5rem;
+  }
+  
+  .recipe {
+    margin-right: 5rem;
+    width: calc(25% - 5rem);
+  }
 }

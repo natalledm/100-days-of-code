@@ -4,14 +4,12 @@
 
 .banner__img {
   width: 100%;
-  height: calc(100vh - 72px);
   background: url("../img/banner.jpg") no-repeat center / cover;
 }
 
 .banner__title {
   font-family: Pacifico, cursive;
   color: #fdfdfd;
-  font-size: 5.0625rem;
   position: absolute;
   left: 50%;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
@@ -19,4 +17,22 @@
   text-align: center;
   transform: translate(-50%, -50%);
   width: 100%;
+}
+
+@media screen and (min-width: 0) {
+  .banner__title {
+    font-size: 3rem;
+  }
+  .banner__img {
+    height: calc(100vh - 51px);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .banner__title {
+    font-size: 5.0625rem;
+  }
+  .banner__img {
+    height: calc(100vh - 72px);
+  }
 }
