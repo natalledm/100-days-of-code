@@ -122,7 +122,7 @@
 
 **Thoughts:** BEM naming is so organized!
 
-**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
 
 ## Day 16: 30, January 2021 (HTML, CSS)
 
@@ -130,9 +130,17 @@
 
 **Thoughts:** Illustrative image and meaningful image are different. The first can be styled on CSS and the second need the `<img>` tag.
 
-**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
 
-## Day 17: 31, January 2021 (#)
+## Day 17: 31, January 2021 (HTML, CSS)
+
+**Today's progress:** Finished yesterday's project.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
+
+## Day 18: 31, January 2021 (#)
 
 **Today's progress:** -
 
