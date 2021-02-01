@@ -140,7 +140,15 @@
 
 **Resources and Inspirations:** [Alura](https://www.alura.com.br/), [BEM](http://getbem.com/introduction/)
 
-## Day 18: 31, January 2021 (#)
+## Day 18: 1, February 2021 (HTML, CSS)
+
+**Today's progress:** Started a front-end course.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 19: 2, February 2021 (#)
 
 **Today's progress:** -
 
