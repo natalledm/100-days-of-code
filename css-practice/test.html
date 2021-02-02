@@ -1,0 +1,30 @@
+<head>
+  <style>
+/* p + h2 = only the first h2 element after p */
+    section > p + h2 {  
+       color: red;
+    }
+
+/* p ~ h2 = all the h2 element after p */
+    section > p ~ h2 {
+      background: pink;
+    }
+/* using unicode and inserting content in the page without changing the body */
+    section p::before {
+      content: "❦";
+    }
+  </style>
+</head>
+<body>
+  <h2></h2>
+    <section>
+        <h1>Testing CSS selectors</h1>
+        <h2>1</h2>
+        <p>A</p>
+        <p>B</p>
+        <p>C</p>
+        <h2>D</h2>
+        <h2>E</h2>
+        <h2>F</h2>
+        <p>G</p>
+</body> 
