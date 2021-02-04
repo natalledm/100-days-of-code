@@ -150,16 +150,32 @@
 
 ## Day 19: 2, February 2021 (CSS)
 
-**Today's progress:** Selectors and pseudoselectors of CSS3
+**Today's progress:** Selectors and pseudoselectors of CSS3.
 
 **Thoughts:** Slow day!
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 20: 3, February 2021 (#)
+## Day 20: 3, February 2021 (CSS)
+
+**Today's progress:** Media query and reading.
+
+**Thoughts:** Another slow day.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 21: 4, February 2021 (HTML, CSS)
+
+**Today's progress:** Testing accessibility with NVDA, Wave and Webaim. Discovered Detectron, from Facebook, and Aria, from w3.
+
+**Thoughts:** This is so awesome and wide!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [NVDA](https://www.nvaccess.org/), [Wave](https://wave.webaim.org/), [Webaim](https://webaim.org/resources/contrastchecker/), [ARIA](https://www.w3.org/TR/using-aria/#intro)
+
+## Day 22: 5, February 2021 (#)
 
 **Today's progress:** -
 
 **Thoughts:** -
 
-**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/)
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
