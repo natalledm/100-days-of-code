@@ -172,7 +172,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [NVDA](https://www.nvaccess.org/), [Wave](https://wave.webaim.org/), [Webaim](https://webaim.org/resources/contrastchecker/), [ARIA](https://www.w3.org/TR/using-aria/#intro)
 
-## Day 22: 5, February 2021 (#)
+## Day 22: 5, February 2021 (HTML, CSS)
+
+**Today's progress:** More ARIA and started the last project for the freecodecamp.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [ARIA](https://www.w3.org/TR/using-aria/#intro), [ARIA](https://www.w3.org/TR/wai-aria/), [Vanessa Tonini, about ARIA and accessibility](https://www.youtube.com/watch?v=l_NBdzqYm44), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 23: 6, February 2021 (#)
 
 **Today's progress:** -
 

@@ -1,0 +1,92 @@
+/* Custom colors */
+:root {
+  --main-soft-pink: rgb(235, 206, 206);
+  --main-pink: rgb(187, 87, 87);
+  --main-dark-pink: rgb(128, 63, 63);
+  --main-gray:  rgb(119, 105, 105);
+  --main-white: rgb(243, 222, 222);
+}
+
+/* Base reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* box-sizing and font sizing */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 1.6rem;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: var(--main-soft-pink);
+  line-height: 1.4;
+}
+
+/* navbar */
+#navbar {
+  background-color: var(--main-pink);
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.navbar-link, .navbar-link:visited {
+  text-decoration: none;
+  display: block;
+  padding: 1rem;
+  color: var(--main-white);
+  font-weight: bold;
+}
+
+.navbar-link:hover {
+  text-decoration: underline;
+}
+
+/* welcome */
+
+#welcome-section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#welcome-title {
+  font-family: 'Yusei Magic', sans-serif;
+  color: var(--main-pink);
+  font-size: 5rem;
+  text-shadow: 5px 5px 10px var(--main-dark-pink);
+}
+
+.welcome-subtitle {
+  color: var(--main-dark-pink);
+}
+
+/* projects */
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 4rem;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-bottom: 6rem;
+}
+
+/* footer */
