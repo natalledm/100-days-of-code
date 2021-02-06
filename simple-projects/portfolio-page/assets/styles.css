@@ -86,13 +86,26 @@ body {
   justify-content: center;
 }
 
+.project-card {
+  padding: 1rem;
+  background: var(--main-gray);
+  margin: 1rem;
+  border-radius: 0.3rem;
+  box-shadow: 8px 10px var(--main-dark-pink);
+}
+
+.project-card__link{
+  text-decoration: none;
+  color: var(--main-soft-pink);
+  font-weight: bold;
+  text-align: center;
+}
+
 .project-card__image {
   height: 12.5rem;
   width: 18.75rem;
   border: solid var(--main-dark-pink);
+  border-radius: 0.3rem;
 }
 
-.project-card {
-  padding: 1rem;
-}
 /* footer */
