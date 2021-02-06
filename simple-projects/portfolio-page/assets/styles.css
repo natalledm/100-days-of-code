@@ -79,14 +79,20 @@ body {
 
 /* projects */
 
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 4rem;
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
-  margin-bottom: 6rem;
+#projects {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 10% 0 10%;
+  justify-content: center;
 }
 
+.project-card__image {
+  height: 12.5rem;
+  width: 18.75rem;
+  border: solid var(--main-dark-pink);
+}
+
+.project-card {
+  padding: 1rem;
+}
 /* footer */
