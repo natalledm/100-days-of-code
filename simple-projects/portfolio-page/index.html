@@ -8,12 +8,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Yusei+Magic&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./assets/styles.css">
 
-  <title>Daria's Portfolio</title>
+  <title>Nat's Portfolio</title>
 </head>
 <body>
   <header>
-    <nav id="navbar">
-      <a href="#about" class="navbar-link">About</a>
+    <nav id="navbar" class="header-navigation">
+      <a href="#welcome-section" class="navbar-link">About</a>
       <a href="#projects" class="navbar-link">Projects</a>
       <a href="#contact" class="navbar-link">Contact</a>
     </nav>
@@ -24,7 +24,7 @@
       <h3 class="welcome-subtitle"><em>a web developer</em></h3>
     </section>
     <section id="projects">
-      <div class="project-card">
+      <div class="project-card project-tile">
         <a href="https://codepen.io/natalledm/pen/qBqbGJX" target="_blank" class="project-card__link">
           <figure aria-labelledby="figcaption__first-project">
             <img src="./assets/tribute-page.png" alt="" class="project-card__image">
@@ -32,7 +32,7 @@
           </figure>
         </a>
       </div>
-      <div class="project-card">
+      <div class="project-card project-tile">
         <a href="https://codepen.io/natalledm/pen/qBazdwr" target="_blank" class="project-card__link">
           <figure aria-labelledby="figcaption__second-project">
             <img src="./assets/book-survey.png" alt="" class="project-card__image">
@@ -40,7 +40,7 @@
           </figure>
         </a>
       </div>
-      <div class="project-card">
+      <div class="project-card project-tile">
         <a href="https://codepen.io/natalledm/pen/LYRobmy" target="_blank" class="project-card__link">
           <figure aria-labelledby="figcaption__third-project">
             <img src="./assets/technical-page.png" alt="" class="project-card__image">
@@ -48,7 +48,7 @@
           </figure>
         </a>
       </div>
-      <div class="project-card">
+      <div class="project-card project-tile">
         <a href="https://codepen.io/natalledm/pen/vYyLwbr" target="_blank" class="project-card__link">
           <figure aria-labelledby="figcaption__fourth-project">
             <img src="./assets/bookclub.png" alt="" class="project-card__image">
@@ -59,9 +59,9 @@
     </section>
   </main>
   <footer>
-    <nav id="footer-navigation">
-      <a href="https://github.com/natalledm">GitHub</a>
-      <a href="https://codepen.io/natalledm">Codepen.io</a>
+    <nav id="contact" class="footer-navigation">
+      <a href="https://github.com/natalledm" id="profile-link" class="footer-navigation__link" target="_blank">GitHub</a>
+      <a href="https://codepen.io/natalledm" class="footer-navigation__link" target="_blank">Codepen.io</a>
     </nav>
   </footer>
 </body>

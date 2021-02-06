@@ -43,7 +43,10 @@ body {
   z-index: 10;
 }
 
-.navbar-link, .navbar-link:visited {
+.navbar-link, 
+.footer-navigation__link, 
+.footer-navigation__link:visited, 
+.navbar-link:visited {
   text-decoration: none;
   display: block;
   padding: 1rem;
@@ -109,3 +112,29 @@ body {
 }
 
 /* footer */
+
+.footer-navigation {
+  background: var(--main-dark-pink);
+  margin-top: 2rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-navigation__link:hover {
+  text-decoration: underline;
+}
+
+
+/* Responsiveness */
+
+@media screen and (max-width: 28.75rem){
+  #welcome-title {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .project-card__image {
+    height: 8rem;
+    width: 12rem;
+  }
+}

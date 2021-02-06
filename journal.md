@@ -180,7 +180,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [ARIA](https://www.w3.org/TR/using-aria/#intro), [ARIA](https://www.w3.org/TR/wai-aria/), [Vanessa Tonini, about ARIA and accessibility](https://www.youtube.com/watch?v=l_NBdzqYm44), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 23: 6, February 2021 (#)
+## Day 23: 6, February 2021 (HTML, CSS)
+
+**Today's progress:** Finished a portifolio page for freecodecamp assignment.
+
+**Thoughts:** Slowly getting better at it!
+
+**Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 24: 7, February 2021 (#)
 
 **Today's progress:** -
 
