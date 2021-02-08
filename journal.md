@@ -182,16 +182,32 @@
 
 ## Day 23: 6, February 2021 (HTML, CSS)
 
-**Today's progress:** Finished a portifolio page for freecodecamp assignment.
+**Today's progress:** Finished a portfolio page for freecodecamp assignment.
 
 **Thoughts:** Slowly getting better at it!
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 24: 7, February 2021 (#)
+## Day 24: 7, February 2021 (JS)
+
+**Today's progress:** Updating node, git bash, npm and remembering how to execute .js files again.
+
+**Thoughts:** My gosh, I forgot everything!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 25: 8, February 2021 (JS)
+
+**Today's progress:** Progress of JS course on Alura and Freecodecamp.
+
+**Thoughts:** Array manipulation!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 26: 9, February 2021 (#)
 
 **Today's progress:** -
 
 **Thoughts:** -
 
-**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
