@@ -204,7 +204,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 26: 9, February 2021 (#)
+## Day 26: 9, February 2021 (JS)
+
+**Today's progress:** Progress of JS course on Alura and Freecodecamp.
+
+**Thoughts:** More array manipulation!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 27: 10, February 2021 (#)
 
 **Today's progress:** -
 
