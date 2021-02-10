@@ -212,7 +212,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 27: 10, February 2021 (#)
+## Day 27: 10, February 2021 (JS)
+
+**Today's progress:** Progress on JS course.
+
+**Thoughts:** conditionals!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 28: 11, February 2021 (#)
 
 **Today's progress:** -
 
