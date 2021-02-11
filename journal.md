@@ -220,7 +220,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 28: 11, February 2021 (#)
+## Day 28: 11, February 2021 (JS)
+
+**Today's progress:** Doing conditionals and debbuging.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 29: 12, February 2021 (#)
 
 **Today's progress:** -
 
