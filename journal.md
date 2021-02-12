@@ -228,7 +228,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 29: 12, February 2021 (#)
+## Day 29: 12, February 2021 (JS)
+
+**Today's progress:** Loops and Replace.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 30: 13, February 2021 (#)
 
 **Today's progress:** -
 
