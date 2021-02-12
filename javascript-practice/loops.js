@@ -26,11 +26,23 @@ const podeComprar = idadeComprador >= 18 || estaAcompanhado == true;
 let contador = 0;
 let destinoExiste = false;
 
-while(contador<3){
-  if(listaDeDestinos[contador] == destino){
+// while(contador<3){
+//   if(listaDeDestinos[contador] == destino){
+//     console.log("Destino existente");
+//     destinoExiste = true;
+//     break;
+//   }
+//   contador += 1;
+// }
+
+// ou
+
+for(let i = 0; i < 3; i++){
+  if(listaDeDestinos[i] == destino){
     console.log("Destino existente");
+    console.log(i);
     destinoExiste = true;
-    break;
   }
-  contador += 1;
 }
+
+console.log(destinoExiste);
