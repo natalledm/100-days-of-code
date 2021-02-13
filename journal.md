@@ -236,7 +236,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 30: 13, February 2021 (#)
+## Day 30: 13, February 2021 (JS)
+
+**Today's progress:** Class and functions!
+
+**Thoughts:** ES6 of love!
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 31: 14, February 2021 (#)
 
 **Today's progress:** -
 
