@@ -244,7 +244,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 31: 14, February 2021 (#)
+## Day 31: 14, February 2021 (REGEX, Pink Programming)
+
+**Today's progress:** Understanding Regex and being inspired by Pink Programming!
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Pink Programming](https://www.pinkprogramming.se/en/), [Regex](https://regex101.com/)
+
+## Day 32: 15, February 2021 (#)
 
 **Today's progress:** -
 
