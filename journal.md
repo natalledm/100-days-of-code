@@ -252,7 +252,15 @@
 
 **Resources and Inspirations:**[Pink Programming](https://www.pinkprogramming.se/en/), [Regex](https://regex101.com/)
 
-## Day 32: 15, February 2021 (#)
+## Day 32: 15, February 2021 (JS)
+
+**Today's progress:** Class and modules.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 33: 16, February 2021 (#)
 
 **Today's progress:** -
 
