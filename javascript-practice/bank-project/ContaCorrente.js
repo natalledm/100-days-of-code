@@ -1,6 +1,7 @@
 export class ContaCorrente {
   agencia;
   cliente; //separados porque estes são públicos, facilmente mutáveis e o saldo é privado.
+  //these two come as undefined. Similar to null, but you need to explicitly define it as null.
 
   _saldo = 0; //private atribute convention. It isn't private per se.
   // #saldo; https://github.com/tc39/proposal-class-fields#private-fields

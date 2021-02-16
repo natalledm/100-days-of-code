@@ -254,13 +254,21 @@
 
 ## Day 32: 15, February 2021 (JS)
 
-**Today's progress:** Class and modules.
+**Today's progress:** Classes, modules, and objects!
 
-**Thoughts:** -
+**Thoughts:** Remember that if you use an object as parameter of a method, it uses the original object itself. So any changes will be done to the original object!
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 33: 16, February 2021 (#)
+## Day 33: 16, February 2021 (JS)
+
+**Today's progress:** More about objects, null and undefined.
+
+**Thoughts:** Slow day today.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 34: 17, February 2021 (#)
 
 **Today's progress:** -
 
