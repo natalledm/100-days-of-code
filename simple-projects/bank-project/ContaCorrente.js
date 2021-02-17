@@ -1,10 +1,32 @@
+import { Cliente } from "./Cliente.js"
 export class ContaCorrente {
   agencia;
-  cliente; //separados porque estes são públicos, facilmente mutáveis e o saldo é privado.
+  static numeroDeContas = 0;
+  //cliente; //separados porque estes são públicos, facilmente mutáveis e o saldo é privado.
   //these two come as undefined. Similar to null, but you need to explicitly define it as null.
 
-  _saldo = 0; //private atribute convention. It isn't private per se.
+  _saldo = 0; //private atribute convention: underline at the beginning. It isn't private per se.
   // #saldo; https://github.com/tc39/proposal-class-fields#private-fields
+  _cliente;
+
+  set cliente(novoValor){
+    if(novoValor instanceof Cliente){
+      this._cliente = novoValor;
+    }
+  }
+  get cliente(){
+    return this._cliente;
+  }
+
+  get saldo(){ //getter to make saldo only readable, so you can't change it directly, only using the methods below.
+    return this._saldo;
+  }
+
+  constructor(agencia, cliente){
+    this.agencia = agencia;
+    this.cliente = cliente;
+    ContaCorrente.numeroDeContas += 1;
+  }
 
   sacar(valor){
     if(this._saldo >= valor){

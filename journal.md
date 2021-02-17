@@ -270,6 +270,14 @@
 
 ## Day 34: 17, February 2021 (#)
 
+**Today's progress:** Classes, getters and constructors.
+
+**Thoughts:** Dead dead.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 35: 18, February 2021 (#)
+
 **Today's progress:** -
 
 **Thoughts:** -
