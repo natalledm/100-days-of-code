@@ -278,7 +278,7 @@
 
 ## Day 35: 18, February 2021 (JS)
 
-**Today's progress:** Continuing the bank project from yesterday.
+**Today's progress:** Continuing the bank project from yesterday. Now it was connecting classes via extends.
 
 **Thoughts:** Classes are still strange to me.
 
