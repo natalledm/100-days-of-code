@@ -2,10 +2,6 @@
 //Export came with ecma 6, kinda "new" in js. It's modules!
 
 export class Cliente {
-  nome;
-
-  _cpf;
-
   get cpf(){
     return this._cpf;
   }

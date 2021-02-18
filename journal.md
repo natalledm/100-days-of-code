@@ -268,7 +268,7 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 34: 17, February 2021 (#)
+## Day 34: 17, February 2021 (JS)
 
 **Today's progress:** Classes, getters and constructors.
 
@@ -276,7 +276,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 35: 18, February 2021 (#)
+## Day 35: 18, February 2021 (JS)
+
+**Today's progress:** Continuing the bank project from yesterday.
+
+**Thoughts:** Classes are still strange to me.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 36: 19, February 2021 (#)
 
 **Today's progress:** -
 
