@@ -230,7 +230,7 @@
 
 ## Day 29: 12, February 2021 (JS)
 
-**Today's progress:** Loops and Replace.
+**Today's progress:** Loops and Replace. For something to be null you need to write it. Undefined is given if not declared.
 
 **Thoughts:** -
 
@@ -240,9 +240,10 @@
 
 **Today's progress:** Class and functions!
 
-**Thoughts:** ES6 of love!
+**Thoughts:** Capital letter for naming a file (ex: "Client.js") to specify that it is a file for a Class. Better practice to initialize a variable inside a method.
+Also, leave a space to separate public variables from private variables. Private atribute convention: underline at the beginning (or #, as the proposition below).
 
-**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Private Fields proposition](https://github.com/tc39/proposal-class-fields#private-fields)
 
 ## Day 31: 14, February 2021 (REGEX, Pink Programming)
 
@@ -256,7 +257,7 @@
 
 **Today's progress:** Classes, modules, and objects!
 
-**Thoughts:** Remember that if you use an object as parameter of a method, it uses the original object itself. So any changes will be done to the original object!
+**Thoughts:** Remember that if you use an object as parameter of a method, it uses the original object itself. So any changes will be done to the original object! Objects are not primitive values (string, int, etc.) so when referred as a value of a method what is referred is the object itself, not a copy of it like it occurs with a primitive value. So any changes in the object inside the method, will change the original object itself. Ex: if I put a "thing: value", it will appear in the object that is being called by the function.
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
@@ -272,7 +273,7 @@
 
 **Today's progress:** Classes, getters and constructors.
 
-**Thoughts:** Dead dead.
+**Thoughts:** Dead dead. Getters can be used to make a variable only readable, so you can't change it directly, only using the methods inside the class.
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
@@ -284,7 +285,15 @@
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 36: 19, February 2021 (#)
+## Day 36: 19, February 2021 (JS)
+
+**Today's progress:** Super and overwritten methods.
+
+**Thoughts:** Write a method in a specialized class with the same name and parameters that is on the "main" class to overwritten it and use it instead of the original method inside the main class.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 37: 20, February 2021 (#)
 
 **Today's progress:** -
 

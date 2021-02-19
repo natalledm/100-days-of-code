@@ -11,5 +11,9 @@ const ContaCorrenteCliente1 = new ContaCorrente(1001, cliente1);
 // ContaCorrenteCliente1.depositar(500);
 // console.log(ContaCorrenteCliente1);
 
-const ContaCorrenteRicardo = new Conta(0, cliente1, 1001);
-console.log(ContaCorrenteCliente1, ContaCorrenteRicardo);
+const contaCorrenteRicardo = new ContaCorrente(0, cliente1, 1001);
+const contaPoupancaRicardo = new ContaPoupanca(50, cliente1, 1001);
+contaCorrenteRicardo.depositar(500);
+contaCorrenteRicardo.sacar(100);
+
+console.log(contaCorrenteRicardo);
