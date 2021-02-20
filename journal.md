@@ -287,13 +287,21 @@ Also, leave a space to separate public variables from private variables. Private
 
 ## Day 36: 19, February 2021 (JS)
 
-**Today's progress:** Super and overwritten methods.
+**Today's progress:** Super and overwrite methods.
 
 **Thoughts:** Write a method in a specialized class with the same name and parameters that is on the "main" class to overwritten it and use it instead of the original method inside the main class.
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 37: 20, February 2021 (#)
+## Day 37: 20, February 2021 (JS)
+
+**Today's progress:** Abstract class, a bit of throw error and abstract method.
+
+**Thoughts:** Abstract Class = only works for inheritance, not to be instanced. Abstract method = created to be overwritten.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 38: 21, February 2021 (#)
 
 **Today's progress:** -
 
