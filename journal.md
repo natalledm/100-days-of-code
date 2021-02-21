@@ -299,9 +299,18 @@ Also, leave a space to separate public variables from private variables. Private
 
 **Thoughts:** Abstract Class = only works for inheritance, not to be instanced. Abstract method = created to be overwritten.
 
-**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 38: 21, February 2021 (#)
+## Day 38: 21, February 2021 (JS)
+
+**Today's progress:** Organizing bank project and creating new Classes. Polymorphism.
+
+**Thoughts:** This abstraction is so strange.
+At least I (think I can) can understand the basic concept of polymorphism, since it is used in biology and linguistics.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 39: 22, February 2021 (#)
 
 **Today's progress:** -
 
