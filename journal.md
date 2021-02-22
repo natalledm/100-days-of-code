@@ -310,7 +310,15 @@ At least I (think I can) can understand the basic concept of polymorphism, since
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 39: 22, February 2021 (#)
+## Day 39: 22, February 2021 (JS)
+
+**Today's progress:** Authentication and polymorphism (and JS).
+
+**Thoughts:** Roadblock. This is kinda hard to get, my gosh.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/)
+
+## Day 40: 23, February 2021 (#)
 
 **Today's progress:** -
 
