@@ -318,7 +318,18 @@ At least I (think I can) can understand the basic concept of polymorphism, since
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/)
 
-## Day 40: 23, February 2021 (#)
+## Day 40: 23, February 2021 (JS, Git)
+
+**Today's progress:** Doing a side study project (started with Git) and finishing the last stretch of general OOP. Today was all about Ducky typying.
+
+**Thoughts:** As someone who never used offline git before, creating a server in my computer was kinda funny.
+About ducky type: if it quacks and walks like a duck, it's a duck. We don't need to know everything about it to determine that (like type).
+OOP main characteristics are encapsulation (to protect sensible variables) and polymorphism (general cookie cutter for different cookies).
+Of course OOP has other things, like inheritance, proprieties and methods, but those two are the most important.
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Git Cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+## Day 41: 24, February 2021 (#)
 
 **Today's progress:** -
 
