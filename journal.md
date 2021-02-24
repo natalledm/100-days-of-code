@@ -320,7 +320,7 @@ At least I (think I can) can understand the basic concept of polymorphism, since
 
 ## Day 40: 23, February 2021 (JS, Git)
 
-**Today's progress:** Doing a side study project (started with Git) and finishing the last stretch of general OOP. Today was all about Ducky typying.
+**Today's progress:** Doing a side study project (started with Git) and finishing the last stretch of general OOP. Today was all about Ducky typing.
 
 **Thoughts:** As someone who never used offline git before, creating a server in my computer was kinda funny.
 About ducky type: if it quacks and walks like a duck, it's a duck. We don't need to know everything about it to determine that (like type).
@@ -329,10 +329,10 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Git Cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-## Day 41: 24, February 2021 (#)
+## Day 41: 24, February 2021 (Git)
 
-**Today's progress:** -
+**Today's progress:** Finished the study project on Git.
 
 **Thoughts:** -
 
-**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Github](https://github.com/)
