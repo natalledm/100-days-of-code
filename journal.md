@@ -336,3 +336,19 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 **Thoughts:** -
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Github](https://github.com/)
+
+## Day 42: 25, February 2021 (HTML, Pair programming)
+
+**Today's progress:** Pair programming today and started a course on udemy!
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Github](https://github.com/)
+
+## Day 43: 24, February 2021 (Git)
+
+**Today's progress:** Finished the study project on Git.
+
+**Thoughts:** -
+
+**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Github](https://github.com/)
