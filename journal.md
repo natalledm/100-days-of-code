@@ -353,10 +353,18 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 44: 27, February 2021 (#)
+## Day 44: 27, February 2021 (JS exercises)
+
+**Today's progress:** Exercises on hackerrank and Freecodecamp.
+
+**Thoughts:** Mentally overwhelmed.
+
+**Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Hackerrank](https://www.hackerrank.com/)
+
+## Day 45: 28, February 2021 (#)
 
 **Today's progress:** -
 
 **Thoughts:** -
 
-**Resources and Inspirations:**[Alura](https://www.alura.com.br/), [Github](https://github.com/)
+**Resources and Inspirations:** -
