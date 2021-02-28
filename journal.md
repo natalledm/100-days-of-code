@@ -361,7 +361,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:**[Freecodecamp](https://www.freecodecamp.org/), [Hackerrank](https://www.hackerrank.com/)
 
-## Day 45: 28, February 2021 (#)
+## Day 45: 28, February 2021 (JS)
+
+**Today's progress:** Progress on JS part on Freecodecamp.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 46: 28, February 2021 (#)
 
 **Today's progress:** -
 
