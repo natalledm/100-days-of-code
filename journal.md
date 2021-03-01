@@ -369,7 +369,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 46: 28, February 2021 (#)
+## Day 46: 1, March 2021 (JS and HTML)
+
+**Today's progress:** Progress on the udemy course and some js exercises on Freecodecamp.
+
+**Thoughts:** I think I studied on every free time I got today. Hard monday. Switch in js is so... plain! But it does the job pretty well. =)
+
+**Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/), [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 47: 2, February 2021 (#)
 
 **Today's progress:** -
 
