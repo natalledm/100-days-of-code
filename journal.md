@@ -385,13 +385,21 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/), [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 48: 3, March 2021 (#)
+## Day 48: 3, March 2021 (CSS)
 
 **Today's progress:** Just barely above one hour of CSS today. Progress on my udemy course.
 
 **Thoughts:** My goodness, today was hard.
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/), [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 49: 4, March 2021 (CSS)
+
+**Today's progress:** Did a little bouncing ball with css and made progress in the Udemy course.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
 ## Day 49: 4, March 2021 (#)
 
