@@ -409,7 +409,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 51: 5, March 2021 (#)
+## Day 51: 5, March 2021 (JS)
+
+**Today's progress:** Did a lot of js problems in freecodecamp.
+
+**Thoughts:** I really need to grasp better how to call proprieties inside an object in js.
+
+**Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 52: 6, March 2021 (#)
 
 **Today's progress:** -
 
