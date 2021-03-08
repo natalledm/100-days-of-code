@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(195, 207, 230, 0.589);
+}
+
+img {
+  width: 30%;
+  margin: 1.6666%;
+  border-radius: 5px;
+}
+
+nav {
+  margin-left: 1.6666%;
+  width: 30%;
+  border-bottom: 2px solid rgba(78, 133, 204, 0.541);
+  padding: 1.2em 0;
+  font-size: 1.8em;
+  font-family: 'RocknRoll One', sans-serif;
+}
+
+.images-container {
+  display: flex;
+  flex-wrap: wrap;
+}
