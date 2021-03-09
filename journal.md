@@ -401,7 +401,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 50: 4, March 2021 (CSS & JS)
+## Day 50: 5, March 2021 (CSS & JS)
 
 **Today's progress:** Doing little animations, progress on udemy and js exercise on freecodecamp.
 
@@ -409,7 +409,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 51: 5, March 2021 (JS)
+## Day 51: 6, March 2021 (JS)
 
 **Today's progress:** Did a lot of js problems in freecodecamp.
 
@@ -417,7 +417,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 52: 6, March 2021 (JS)
+## Day 52: 7, March 2021 (JS)
 
 **Today's progress:** More js problems in freecodecamp. Almost finishing the basics there.
 
@@ -425,7 +425,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 53: 7, March 2021 (HTML, CSS)
+## Day 53: 8, March 2021 (HTML, CSS)
 
 **Today's progress:** Simple image page project for udemy course.
 
@@ -433,7 +433,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 54: 8, March 2021 (#)
+## Day 54: 9, March 2021 (HTML, CSS, JS)
+
+**Today's progress:** Simple page as exercise. Js exercises on freecodecamp.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 55: 10, March 2021 (#)
 
 **Today's progress:** -
 
