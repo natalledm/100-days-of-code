@@ -1,0 +1,27 @@
+:root {
+  --soft-pink: #f5d9df;
+  --danger-red: #ea1c2c;
+}
+
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: var(--soft-pink);
+}
+
+#mainNavBar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavBar .navbar-brand {
+  color: var(--danger-red);
+}
+
+#mainNavBar .nav-link {
+  color: white;
+}
+
+#mainNavBar .nav-link:hover {
+  color: var(--danger-red);
+}
