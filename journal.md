@@ -465,7 +465,23 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Bootstrap](https://getbootstrap.com/)
 
-## Day 58: 13, March 2021 (#)
+## Day 58: 13, March 2021 (Bootstrap, HTML, CSS)
+
+**Today's progress:** Progress on the page done with bootstrap.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Bootstrap](https://getbootstrap.com/)
+
+## Day 59: 14, March 2021 (Bootstrap, HTML, CSS, Jquery)
+
+**Today's progress:** Finished the page project from yesterday.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [Bootstrap](https://getbootstrap.com/)
+
+## Day 60: 15, March 2021 (#)
 
 **Today's progress:** -
 
