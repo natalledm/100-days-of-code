@@ -520,3 +520,19 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 **Thoughts:** -
 
 **Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 65: 21, March 2021 (HTML, CSS)
+
+**Today's progress:** Mobile First Project, continuation.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 66: 22, March 2021 (#)
+
+**Today's progress:** -
+
+**Thoughts:** -
+
+**Resources and Inspirations:** -
