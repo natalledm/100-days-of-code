@@ -529,7 +529,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Alura](https://www.alura.com.br/)
 
-## Day 66: 22, March 2021 (#)
+## Day 66: 22, March 2021 (HTML, CSS)
+
+**Today's progress:** Continuing the project of mobile first.
+
+**Thoughts:** Remember to use BEM to be clear, Emmet to help and vw/vh for sizing conected directly to the display.
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 67: 23, March 2021 (#)
 
 **Today's progress:** -
 
