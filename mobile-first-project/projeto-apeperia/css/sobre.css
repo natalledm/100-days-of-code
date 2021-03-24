@@ -32,3 +32,25 @@
 
   margin-bottom: 1rem;
 }
+
+.sobre__imagem {
+  display: none;
+}
+
+@media screen and (min-width: 1024px){
+  .sobre {
+    display: flex;
+  }
+
+  .sobre__conteudo {
+    margin-right: 3rem;
+  }
+
+  .sobre__texto--divisão {
+    border-bottom: 1px solid var(--cinza-medio);
+  }
+
+  .sobre__imagem {
+    display: block;
+  }
+}
