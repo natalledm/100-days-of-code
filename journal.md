@@ -553,7 +553,39 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Alura](https://www.alura.com.br/)
 
-## Day 69: 25, March 2021 (#)
+## Day 69: 25, March 2021 (SEO)
+
+**Today's progress:** Started the SEO course at Alura.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 70: 26, March 2021 (SEO, JS)
+
+**Today's progress:** Still doing the SEO course. Did some js exercises too.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/), [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 71: 27, March 2021 (SEO)
+
+**Today's progress:** Same course.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 72: 28, March 2021 (SEO)
+
+**Today's progress:** Same course.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Alura](https://www.alura.com.br/)
+
+## Day 73: 29, March 2021 (#)
 
 **Today's progress:** -
 
