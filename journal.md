@@ -617,7 +617,23 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 77: 2, April 2021 (#)
+## Day 77: 2, April 2021 (JS)
+
+**Today's progress:** Arrays and loops.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 78: 3, April 2021 (JS)
+
+**Today's progress:** ES6 exercises.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
+
+## Day 79: 4, April 2021 (#)
 
 **Today's progress:** -
 
