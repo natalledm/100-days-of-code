@@ -633,7 +633,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 80: 4, April 2021 (JS)
+## Day 79: 4, April 2021 (JS)
 
 **Today's progress:** Did a little guessing game to train the loops and conditions.
 
@@ -641,15 +641,23 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 81: 5, April 2021 (#)
+## Day 80: 5, April 2021 (JS)
 
-**Today's progress:** -
+**Today's progress:** Finished loops (for in, for of) and started functions!
 
 **Thoughts:** -
 
-**Resources and Inspirations:** -
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 82: 6, April 2021 (#)
+## Day 81: 6, April 2021 (JS)
+
+**Today's progress:** Finished the basic function in the course and did some exercises.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 82: 7, April 2021 (#)
 
 **Today's progress:** -
 
