@@ -657,7 +657,23 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 82: 7, April 2021 (#)
+## Day 82: 7, April 2021 (JS)
+
+**Today's progress:** All about functions!
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 83: 8, April 2021 (JS)
+
+**Today's progress:** Higher order functions, returning functions, and methods.
+
+**Thoughts:** I have a knot in my brain now.
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 84: 9, April 2021 (#)
 
 **Today's progress:** -
 
