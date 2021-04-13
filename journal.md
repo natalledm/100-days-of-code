@@ -697,10 +697,26 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Freecodecamp](https://www.freecodecamp.org/)
 
-## Day 87: 12, April 2021 (#)
+## Day 87: 12, April 2021 (JS)
+
+**Today's progress:** Callbacks and Array Methods
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 88: 13, April 2021 (JS)
+
+**Today's progress:** Callbacks and Array Methods
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 89: 13, April 2021 (JS)
 
 **Today's progress:** -
 
 **Thoughts:** -
 
-**Resources and Inspirations:** -
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
