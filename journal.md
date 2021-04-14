@@ -713,7 +713,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 89: 13, April 2021 (JS)
+## Day 89: 14, April 2021 (JS)
+
+**Today's progress:** Map and Arrow Functions!
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 90: 15, April 2021 (JS)
 
 **Today's progress:** -
 
