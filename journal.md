@@ -723,6 +723,14 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 ## Day 90: 15, April 2021 (JS)
 
+**Today's progress:** Timeout, Interval, Filter, Some, Every, Reduce and perks of arrow functions and methods.
+
+**Thoughts:** UFF!
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 91: 16, April 2021 (JS)
+
 **Today's progress:** -
 
 **Thoughts:** -
