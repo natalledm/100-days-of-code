@@ -747,6 +747,14 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 ## Day 93: 18, April 2021 (JS)
 
+**Today's progress:** Destructuring and review.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 94: 18, April 2021 (JS)
+
 **Today's progress:** -
 
 **Thoughts:** -
