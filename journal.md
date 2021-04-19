@@ -753,7 +753,15 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
 
-## Day 94: 18, April 2021 (JS)
+## Day 94: 19, April 2021 (JS)
+
+**Today's progress:** Started with DOM manipulation.
+
+**Thoughts:** -
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 95: 20, April 2021 (JS)
 
 **Today's progress:** -
 
