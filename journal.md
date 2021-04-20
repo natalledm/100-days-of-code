@@ -763,7 +763,7 @@ Of course OOP has other things, like inheritance, proprieties and methods, but t
 
 ## Day 95: 20, April 2021 (JS)
 
-**Today's progress:** Inner text, textContent, inner HTML, changing styles, 
+**Today's progress:** Inner text, textContent, inner HTML, changing styles,
 classList and other basic things from DOM manipulation.
 
 **Thoughts:** Inner text x inner textcontent = inner text shows what is supposed,
