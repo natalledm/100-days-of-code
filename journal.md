@@ -773,6 +773,14 @@ text content show everything (like a word with display none).
 
 ## Day 96: 21, April 2021 (JS)
 
+**Today's progress:** Parachuted inside an ongoing project. Besides that, I continued with DOM manipulation exercises.
+
+**Thoughts:** jekyll is quite interesting!
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 97: 22, April 2021 (JS)
+
 **Today's progress:** -
 
 **Thoughts:** -
