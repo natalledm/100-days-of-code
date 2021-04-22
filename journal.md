@@ -781,6 +781,14 @@ text content show everything (like a word with display none).
 
 ## Day 97: 22, April 2021 (JS)
 
+**Today's progress:** Still with DOM manipulation.
+
+**Thoughts:** Today was append and remove!
+
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+
+## Day 98: 23, April 2021 (JS)
+
 **Today's progress:** -
 
 **Thoughts:** -
