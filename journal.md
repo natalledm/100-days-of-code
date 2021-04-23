@@ -789,6 +789,14 @@ text content show everything (like a word with display none).
 
 ## Day 98: 23, April 2021 (JS)
 
+**Today's progress:** Problem solving today.
+
+**Thoughts:** My gosh, nothing like problem solving to make you feel like you know nothing.
+
+**Resources and Inspirations:** [HackerRank](https://www.hackerrank.com/)
+
+## Day 99: 24, April 2021 (JS)
+
 **Today's progress:** -
 
 **Thoughts:** -
