@@ -797,8 +797,8 @@ text content show everything (like a word with display none).
 
 ## Day 99: 24, April 2021 (JS)
 
-**Today's progress:** -
+**Today's progress:** Problem solving on HackerRank and a small demo page as exercise.
 
 **Thoughts:** -
 
-**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/)
+**Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [HackerRank](https://www.hackerrank.com/)
