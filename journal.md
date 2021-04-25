@@ -802,3 +802,11 @@ text content show everything (like a word with display none).
 **Thoughts:** -
 
 **Resources and Inspirations:** [Udemy Course](https://www.udemy.com/share/101W9CAkEaeVlQTHQ=/), [HackerRank](https://www.hackerrank.com/)
+
+## Day 100: 25, April 2021 (JS)
+
+**Today's progress:** Problem solving on HackerRank and a coding test today.
+
+**Thoughts:** Yay!!! 100 days!!!
+
+**Resources and Inspirations:** [HackerRank](https://www.hackerrank.com/)
